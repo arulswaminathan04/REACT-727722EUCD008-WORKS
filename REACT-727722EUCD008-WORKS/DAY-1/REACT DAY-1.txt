@@ -1,0 +1,8 @@
+React app installtion done...
+
+step-1:node -v.
+step-2:npm-v.
+step-3:npx create-react-app first.
+step-4:dir
+step-5:cd first.
+step-6:npm start.
